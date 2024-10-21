@@ -1,30 +1,79 @@
-/******************************/
-/* Custom PS4 Controller Skin */
-/******************************/
-
 #controller {
-  background-image: url('https://w7.pngwing.com/pngs/770/581/png-transparent-playstation-ps4-ps5-controller-play-gaming-xbox-technology-control-video-games-thumbnail.png');
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
   background-size: contain;
 }
 
 button#dpad-up {
-  background-image: url('LINK_TO_YOUR_DPAD_UP_IMAGE.png');
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
   background-size: contain;
 }
-
 button#dpad-down {
-  background-image: url('LINK_TO_YOUR_DPAD_DOWN_IMAGE.png');
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
   background-size: contain;
 }
-
 button#dpad-left {
-  background-image: url('LINK_TO_YOUR_DPAD_LEFT_IMAGE.png');
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
   background-size: contain;
 }
-
 button#dpad-right {
-  background-image: url('LINK_TO_YOUR_DPAD_RIGHT_IMAGE.png');
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
   background-size: contain;
 }
 
-/* Continue this for all buttons, triggers, joysticks, etc. */
+button#cross {
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
+  background-size: contain;
+}
+button#circle {
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
+  background-size: contain;
+}
+button#square {
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
+  background-size: contain;
+}
+button#triangle {
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
+  background-size: contain;
+}
+
+button#left-analog {
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
+  background-size: contain;
+}
+button#right-analog {
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
+  background-size: contain;
+}
+
+button#l1 {
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
+  background-size: contain;
+}
+button#l2 {
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
+  background-size: contain;
+}
+button#r1 {
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
+  background-size: contain;
+}
+button#r2 {
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
+  background-size: contain;
+}
+
+button#share {
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
+  background-size: contain;
+}
+button#options {
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
+  background-size: contain;
+}
+
+#touchpad {
+  background-image: url('https://drive.google.com/file/d/1fV_C17KVI_PnvZ41YmC16pg4PTKGNveS/view');
+  background-size: contain;
+}
+  
